@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/logo-big.png
 heroImageDark: /images/logo-big.png
-heroText: 欢迎使用德索 CRM
+heroText: 德索CRM 在线手册
 tagline: 我们不生产大模型，我们只是AI服务的搬运工
 
 actions:
