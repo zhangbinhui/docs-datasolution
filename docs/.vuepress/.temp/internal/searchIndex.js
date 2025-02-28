@@ -42,13 +42,6 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "",
-    "headers": [],
-    "path": "/manual/mobile/%E7%9F%A5%E5%AE%A2.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "新佣金提成管理",
     "headers": [
       {
@@ -101,7 +94,14 @@ export const SEARCH_INDEX = [
         "children": []
       }
     ],
-    "path": "/manual/crm/%E4%BD%A3%E9%87%91%E6%8F%90%E6%88%90%E7%AE%A1%E7%90%86.html",
+    "path": "/manual/crm/commission.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/manual/crm/report.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -109,13 +109,6 @@ export const SEARCH_INDEX = [
     "title": "",
     "headers": [],
     "path": "/manual/crm/%E6%8A%95%E8%B5%84%E8%80%85%E5%9B%9E%E8%AE%BF.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [],
-    "path": "/manual/crm/%E6%8A%A5%E8%A1%A8%E4%B8%AD%E5%BF%83.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -136,8 +129,28 @@ export const SEARCH_INDEX = [
   {
     "title": "",
     "headers": [],
+    "path": "/manual/mobile/%E7%9F%A5%E5%AE%A2.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
     "path": "/404.html",
     "pathLocale": "/",
     "extraFields": []
   }
 ]
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ searchIndex }) => {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  })
+}

@@ -53,8 +53,8 @@ export default {
               text: '德索CRM',
               prefix: '/manual/crm/',
               children: [
-                '佣金提成管理.md',
-                '报表中心.md',
+                'commission.md',
+                'report.md',
                 '特法账单发送.md',
                 '自动业务短信.md',
                 '投资者回访.md',
