@@ -1,0 +1,1 @@
+import{_ as e,e as t,o as a}from"./app-B-7R6S8o.js";const r={};function c(n,_){return a(),t("div")}const o=e(r,[["render",c],["__file","报表中心.html.vue"]]),l=JSON.parse('{"path":"/manual/crm/%E6%8A%A5%E8%A1%A8%E4%B8%AD%E5%BF%83.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"manual/crm/报表中心.md"}');export{o as comp,l as data};

@@ -1,0 +1,1 @@
+import{_ as e,e as t,o as a}from"./app-B-7R6S8o.js";const r={};function _(c,n){return a(),t("div")}const o=e(r,[["render",_],["__file","投资者回访.html.vue"]]),l=JSON.parse('{"path":"/manual/crm/%E6%8A%95%E8%B5%84%E8%80%85%E5%9B%9E%E8%AE%BF.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"manual/crm/投资者回访.md"}');export{o as comp,l as data};
