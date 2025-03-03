@@ -32,7 +32,7 @@ export default {
             },
             {
               text: '知客',
-              link: '/overview/mobile.md',
+              link: '/overview/scrm.md',
             },
             {
               text: '业务审批',
@@ -47,71 +47,112 @@ export default {
 
         // NavbarGroup
         {
-          text: '操作手册',
+          text: '使用手册',
           children: [
             {
-              text: '德索CRM',
+              text: 'CRM',
               prefix: '/manual/crm/',
               children: [
-                'commission.md',
+                'return.md',
                 'report.md',
-                '特法账单发送.md',
-                '自动业务短信.md',
-                '投资者回访.md',
+                'bill-send.md',
+                'auto-sms.md',
+                'revisit.md',
               ],
             },
             {
-              text: '生产力',
-              children: ['/productivity/plus.md','/productivity/one-api.md','/productivity/next.md', ],
+              text: '反洗钱',
+              prefix: '/manual/aml/',
+              children: [],
             },
             {
-              text: '小技巧',
+              text: 'SCRM',
+              prefix: '/manual/scrm/',
               children:[
-                '/tips/cloudflare-speed.md'
+                'mobile.md'
               ]
             },
             {
-              text: '停服归档',
-              children: ['/legacy/station-old.md','/legacy/plus-old.md','/legacy/lushuren.md','/legacy/pandora.md', '/legacy/simple.md'],
+              text: '业务审批',
+              prefix: '/manual/oa/',
+              children: [],
             },
             {
-              text: '小作文',
-              children: ['/essay/Pandora-quit.md' ],
+              text: '统一数据服务平台',
+              prefix: '/manual/udsp/',
+              children: [],
             }  
           ],
         },
 
-
         {
           text: '友情链接',
-          link: '/guide/friends.md'
+          link: '/guide/friend-link.md'
         }
 
       ],
 
     // 侧边栏数组
     sidebar: {
-        '/crm/':[
-          {
-            text: 'CRM',
-            children: [
-              '佣金提成管理.md',
-              '特法账单发送.md',
-              '报表中心.md',
-              '自动短信.md',
-              '投资回访.md',
-            ],
-          },
-        ],
-        '/mobile/':[
-          {
-            text: '知客',
-            children: [
-              '知客.md',
-            ],
-          },
-        ],
-        
+      '/overview/':[
+        {
+          text: 'CRM',
+          link: 'crm.md',
+        },
+        {
+          text: '反洗钱',
+          link: 'aml.md',
+        },
+        {
+          text: '知客',
+          link: 'scrm.md',
+        },
+        {
+          text: '业务审批',
+          link: 'oa.md',
+        },
+        {
+          text: '统一数据服务平台',
+          link: 'udsp.md',
+        },
+      ],
+      '/manual/':[
+        {
+          text: 'CRM',
+          children: [
+            'crm/return.md',
+            'crm/bill-send.md',
+            'crm/report.md',
+            'crm/auto-sms.md',
+            'crm/revisit.md',
+          ],
+        },
+        {
+          text: '反洗钱',
+          children: [
+            
+          ],
+        },
+        {
+          text: 'SCRM',
+          children: [
+            'scrm/mobile.md',
+          ],
+        },
+        {
+          text: '业务审批',
+          children: [
+            
+          ],
+        },
+        {
+          text: '统一数据服务平台',
+          children: [
+            
+          ],
+        },
+      ],
+      '/reference/': 'heading',
     },
     
   }),
