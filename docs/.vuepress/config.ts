@@ -18,6 +18,10 @@ export default {
           text: '首页',
           link: '/README.md', 
         },  
+        {
+          text: '更新公告',
+          link: '/update/update-log.md'
+        },
         // NavbarGroup
         {
           text: '产品介绍',
@@ -69,7 +73,8 @@ export default {
               text: 'SCRM',
               prefix: '/manual/scrm/',
               children:[
-                'mobile.md'
+                'mobile.md',
+                'mobile-admin.md'
               ]
             },
             {
@@ -84,11 +89,6 @@ export default {
             }  
           ],
         },
-
-        {
-          text: '友情链接',
-          link: '/guide/friend-link.md'
-        }
 
       ],
 
@@ -135,8 +135,10 @@ export default {
         },
         {
           text: 'SCRM',
+          collapsible: true,
           children: [
             'scrm/mobile.md',
+            'scrm/mobile-admin.md',
           ],
         },
         {

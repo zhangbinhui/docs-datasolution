@@ -21,5 +21,5 @@ features:
   - title: 简单优雅
     details: ChatGPT Plus & Claude Pro 拼车服务，国内直连，优雅上车。
 
-footer: © 2010-至今 上海德索信息技术有限公司 | 版权所有
+footer: Copyright © 2010-至今 上海德索信息技术有限公司 | 版权所有
 ---

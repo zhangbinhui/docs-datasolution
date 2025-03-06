@@ -24,7 +24,7 @@
 上线时默认设置小程序搜索屏蔽，只能通过扫描小程序二维码获得；
 :::
 
-<img src="./media/image1.png" alt="描述" width="300" />
+<img src="./mobile-media/image1.png" alt="描述" width="300" />
 
 2)登录时可以使用
 
@@ -36,11 +36,11 @@
 
 后台可配置使用哪种方式进行登录；
 
-![descript](./media/image2.png)
+![descript](./mobile-media/image2.png)
 
 3)登录时可以选择绑定微信号：
 
-![descript](./media/image3.png)
+![descript](./mobile-media/image3.png)
 
 授权操作后，下次登录无需输入账号密码：
 
@@ -48,8 +48,8 @@
 目前一个登陆账号仅能绑定一个微信号，若进行多次微信绑定，只保留最后一次绑定关系。
 :::
 
-<img src="./media/image4.png" alt="描述" width="300" />
-<img src="./media/image5.png" alt="描述" width="300" />
+<img src="./mobile-media/image4.png" alt="描述" width="300" />
+<img src="./mobile-media/image5.png" alt="描述" width="300" />
 
 
 ### 2.切换账号
@@ -58,11 +58,11 @@
 
 1)如需切换账号，点击【我的】->【设置】，在屏幕下方可看到切换账号功能；
 
-![descript](./media/image6.png) ![descript](./media/image7.png)
+![descript](./mobile-media/image6.png) ![descript](./mobile-media/image7.png)
 
 2)若之前绑定了微信号，则需要先在【安全中心】中进行解绑，解绑后方可进行账号切换，如图：
 
-![descript](./media/image8.png)
+![descript](./mobile-media/image8.png)
 
 ## 三、【消息】模块介绍
 
@@ -74,11 +74,11 @@
 
 下方：提供及时、便捷的消息提醒服务，共包含异动、提醒和公告3种消息，涵盖客户资金监控和业务办理进度；支持提供一键拨打用户电话，或联系客户经理。把握MOT（Moment of Trust）时刻，提升服务及时性和服务满意度。
 
-![descript](./media/image9.png)
+![descript](./mobile-media/image9.png)
 
 ### 1.快捷功能金刚区
 
-![descript](./media/image10.png)
+![descript](./mobile-media/image10.png)
 
 默认功能从左上开始依次为 客户筛选、期货实时数据、新开客户、公司保证金率、智能名片、部门榜单。
 
@@ -90,22 +90,22 @@
 
 即智能分组功能，根据内置的条件，快速筛查出一个客群，并且这个客群每日会重新判断条件，进行更新。
 
-![descript](./media/image11.png)
+![descript](./mobile-media/image11.png)
 
 #### 1.2 期货实时数据：
 
 默认仅展示公司客户的实时资金和出入金信息；
 
-右上方的![descript](./media/image12.png)按钮，可以对实时数据的资金、出入金的表头进行置顶和排序操作，如图：
+右上方的![descript](./mobile-media/image12.png)按钮，可以对实时数据的资金、出入金的表头进行置顶和排序操作，如图：
 
-![descript](./media/image13.png) 
-![descript](./media/image14.png)
+![descript](./mobile-media/image13.png) 
+![descript](./mobile-media/image14.png)
 
 #### 1.3 新开客户：
 
 跳转到新开户客户页面，包含昨日 和 本月新开客户数据；
 
-<img src="./media/image15.png" alt="描述" width="300" />
+<img src="./mobile-media/image15.png" alt="描述" width="300" />
 
 #### 1.4 公司保证金率：
 
@@ -113,13 +113,13 @@
 
 1）按交易所分类：
 
-![descript](./media/image16.png)
+![descript](./mobile-media/image16.png)
 
 2) 按价格区间分类：
 
 底部的输入框输入一个价格来筛选，会快速定位到这个价格最接近的品种。适合根据新手客户的资金量定位可交易品种；
 
-![descript](./media/image17.png)
+![descript](./mobile-media/image17.png)
 
 #### 1.5 智能名片：
 
@@ -127,26 +127,26 @@
 
 智能名片与渠道系统打通，此处的二维码即为客户经理在渠道系统生成的开户二维码，客户可以通过二维码直接扫码开户，并且系统会自动绑定渠道与客户的关系；
 
-<img src="./media/image18.png" alt="描述" width="300" />
-<img src="./media/image19.png" alt="描述" width="300" />
+<img src="./mobile-media/image18.png" alt="描述" width="300" />
+<img src="./mobile-media/image19.png" alt="描述" width="300" />
 
 #### 1.6 部门榜单：
 
 用于查看各个层级下部门的各项数据排行：
 
-![descript](./media/image20.png)
+![descript](./mobile-media/image20.png)
 
 - 通过左上角的设置按钮，可以选择想要展示的数据内容及排列顺序：
 
-![descript](./media/image21.png)
+![descript](./mobile-media/image21.png)
 
 - 左上角的统计周期切换，支持月统计 和 日统计数据：
 
-![descript](./media/image22.png)
+![descript](./mobile-media/image22.png)
 
 - 通过右上角的筛选按钮，可以选择想要展示的部门层级，业务类型，针对某个部门的下级部门，以及是否统计子部门数据：
 
-![descript](./media/image23.png)
+![descript](./mobile-media/image23.png)
 
   - 业务类型： 默认为全业务合并数据，若公司只有期货经纪业务，则无需设置；若有股票期权业务，则可以分业务查看；
 
@@ -170,11 +170,11 @@
 
 点击待办，进入当前账号的待办流程页面：
 
-![descript](./media/image24.png)
+![descript](./mobile-media/image24.png)
 
 点击流程查询，可进入当前账号允许查看的流程记录：
 
-![descript](./media/image25.png)
+![descript](./mobile-media/image25.png)
 
 操作与PC端的业务审批系统相同，数据也是实时同步的；
 
@@ -184,28 +184,28 @@
 
 1)未读消息：功能是当前所有未读消息的汇总展示，包含异动、提醒和公告，方便使用者通过该功能快速查看相关重要消息提醒；
 
-![descript](./media/image26.png)
+![descript](./mobile-media/image26.png)
 
 2)查看：未读消息查看后，将从本页面中消失，也可以通过清空未读按钮进行一键清空；
 
 3)筛选：可以点击筛选按钮，进行未读消息类型筛选，可以按照关系类型和自定义分组进行筛选。
 
-<img src="./media/image27.png" alt="描述" width="300" />
+<img src="./mobile-media/image27.png" alt="描述" width="300" />
 
 4)客户信息卡片操作：
 
-![descript](./media/image28.png)
+![descript](./mobile-media/image28.png)
 
 - 点击客户姓名：进入人员信息详情页面；
 
 - 点击消息栏：可以进入消息详情页，并可查看客户详情、跟进、打电话。而打电话可以进一步分为**联系客户 和 联系客户对应的客户经理**；
 
-![descript](./media/image29.png)
-![descript](./media/image30.png)
+![descript](./mobile-media/image29.png)
+![descript](./mobile-media/image30.png)
 
 - 长摁消息栏：可以标记已读或者新建跟进操作：
 
-<img src="./media/image31.jpg" alt="描述" width="300" />
+<img src="./mobile-media/image31.jpg" alt="描述" width="300" />
 
 ### 4.异动消息
 
@@ -238,7 +238,7 @@
 
 - 二是CRM系统定时触发的业务提醒；
 
-![descript](./media/image32.png)
+![descript](./mobile-media/image32.png)
 
 ::: tip
 备注：提醒类型根据客户实际需求会略有变动。期货公司可以根据需要调整规则和话术。
@@ -251,9 +251,9 @@
 
 ### 7.消息设置
 
-点击消息页右上方的![descript](./media/image33.png)按钮，即可进行消息设置，如图：
+点击消息页右上方的![descript](./mobile-media/image33.png)按钮，即可进行消息设置，如图：
 
-![descript](./media/image34.png)
+![descript](./mobile-media/image34.png)
 
 #### 7.1 星标客户消息置顶：
 
@@ -263,24 +263,24 @@
 
 默认不打开，可以根据需要对提醒消息的类型选择置顶：
 
-![descript](./media/image35.png)
+![descript](./mobile-media/image35.png)
 
 #### 7.3 订阅客户：
 
 选择订阅哪些群组的客户消息进行展示和推送，如图：
 
-<img src="./media/image36.png" alt="描述" width="300" />
+<img src="./mobile-media/image36.png" alt="描述" width="300" />
 
 
 #### 7.4 订阅消息类型：
 
 可以设置需要查看的异动、提醒的类型，如图：
 
-![descript](./media/image37.png)
+![descript](./mobile-media/image37.png)
 
 ### 8.消息筛选
 
-点击tab页右上方的![descript](./media/image38.png)按钮，即可进行消息筛选；消息筛选在未读、异动、提醒、公告四个页面中均可使用，根据不同页面内容，筛选条件也各不相同；
+点击tab页右上方的![descript](./mobile-media/image38.png)按钮，即可进行消息筛选；消息筛选在未读、异动、提醒、公告四个页面中均可使用，根据不同页面内容，筛选条件也各不相同；
 
 1)未读消息筛选：针对客户关系类型 及 客户分组；
 
@@ -288,7 +288,7 @@
 
 3)提醒筛选：针对提醒消息的类型进行筛选；
 
-![descript](./media/image39.png)
+![descript](./mobile-media/image39.png)
 
 ## 四、【客户】功能介绍
 
@@ -296,7 +296,7 @@
 
 ### 1.客户功能界面
 
-![descript](./media/image40.png)
+![descript](./mobile-media/image40.png)
 
 a)概况：
 
@@ -328,30 +328,30 @@ e)客户搜索：
 
 点击跳转潜客列表（我的页面-潜客通讯录），如图；
 
-![descript](./media/image41.png)
+![descript](./mobile-media/image41.png)
 
 - 转化中：已开户，但未开始交易的客户。
 
 点击跳转客户列表（我的页面-客户通讯录），筛选条件为**客户状态-有效 + 生命周期-转化中**；
 
-![descript](./media/image42.png)
+![descript](./mobile-media/image42.png)
 
 - 活跃：已开户且正常交易的客户。
 
 点击跳转活跃客户列表（我的页面-客户通讯录），筛选条件为**客户状态-有效 + 生命周期-转化中**；
 
-![descript](./media/image43.png)
+![descript](./mobile-media/image43.png)
 
 - 休眠：已开户但休眠待激活的客户。
 
 点击跳转休眠客户列表（我的页面-客户通讯录），筛选条件为**客户状态-休眠 + 生命周期-休眠**；
 
-![descript](./media/image44.png)
+![descript](./mobile-media/image44.png)
 
 2)客户类型解释说明：对客户状态和生命周期划分的口径进行说明，对这两个类型的关系和相关页面进行说明与举例；
 
 
-<img src="./media/image45.png" alt="描述" width="300" />
+<img src="./mobile-media/image45.png" alt="描述" width="300" />
 
 ### 3.客户机会
 
@@ -367,7 +367,7 @@ e)客户搜索：
 
 - 如果推荐内容全部都展示过后，再点击换一换将会从推荐列表中重头开始展示；
 
-![descript](./media/image46.png)
+![descript](./mobile-media/image46.png)
 
 
 2)潜客机会卡片：
@@ -378,7 +378,7 @@ e)客户搜索：
 
 潜客详情页面介绍详见本节的 [第7点](./mobile.md#_7-潜客详情页面)。
 
-![descript](./media/image47.png)
+![descript](./mobile-media/image47.png)
 
 
 3)客户机会卡片：
@@ -388,7 +388,7 @@ e)客户搜索：
 
 更多客户详情页面的介绍详见本节[第8点](./mobile.md#_8-客户详情页面)。
 
-![descript](./media/image48.png)
+![descript](./mobile-media/image48.png)
 
 ### 4.重点客群
 
@@ -398,64 +398,64 @@ e)客户搜索：
 
 点击重点客群更多跳转客群管理页面，可以看到分组后的所有客群，并且支持对一类客群的展开和折叠；
 
-![descript](./media/image49.png)
+![descript](./mobile-media/image49.png)
 
 
 2)场景客群：针对业内常见客户运营场景的客户分组
 
 如图展示的是根据客户开户前后流程节点，统计的客户列表，列表表头也会根据当前分组主题进行适应调整；
 
-![descript](./media/image50.png)
+![descript](./mobile-media/image50.png)
 
 
 3)公司客群：满足期货公司客户个性化分组要求；
 
 如图提供次席客户明细。公司客群由期货公司定义，通过与德索工程师的对接，提交对应的分组及展示需求即可；
 
-![descript](./media/image51.png)
+![descript](./mobile-media/image51.png)
 
 4)系统默认：系统根据投资者客户与用户的归属关系，分为居间开发和直接开发。
 
 我的客户即为客户经理名下的所有客户，同时知客支持对客户添加星标，并单独设立出星标客户分组；
 
-![descript](./media/image52.png)
+![descript](./mobile-media/image52.png)
 
 5)自定义分组：支持知客当前用户根据自身需要，灵活的选择客户组成分组。分组内容形式与客户通讯录一致；
 
-![descript](./media/image53.png)
+![descript](./mobile-media/image53.png)
 
 - 新建自定义分组，点击自定义分组的加号图标，输入分组名称，选择客户添加到分组中；
 
-![descript](./media/image54.png)
+![descript](./mobile-media/image54.png)
 
 
 - 编辑自定义分组，选择具体自定义分组列表右上角的更多菜单按钮，选择编辑分组可以对分组中的客户清单的具体客户进行删除，也可以选择分组底部的添加客户选择具体客户添加到分组中；
 
-![descript](./media/image55.png)
+![descript](./mobile-media/image55.png)
 
 
 - 删除自定义分组，删除自定义分组是对整个分组进行删除，注意和编辑分组删除具体客户的区别；
 
-![descript](./media/image56.png)
+![descript](./mobile-media/image56.png)
 
 - 重命名自定义分组，操作路径同上，选择重命名可以对分组名称变更；
 
-![descript](./media/image57.png)
+![descript](./mobile-media/image57.png)
 
 
 6)智能分组：智能分组是当前用户可以根据指标条件自动生成，每天定时更新，可以看到较上一日的变化，相较于自定义分组静态的类型而言，是一种动态分组；
 
-![descript](./media/image58.png)
+![descript](./mobile-media/image58.png)
 
 - 新建智能分组，点击智能分组的加号图标，输入分组名称，选择分组条件保存；
 
-![descript](./media/image59.png)
+![descript](./mobile-media/image59.png)
 
 - 编辑智能分组，目前不支持对智能分组的编辑；
 
 - 删除智能分组，删除智能分组是对整个分组进行删除；
 
-![descript](./media/image60.png)
+![descript](./mobile-media/image60.png)
 
 
 
@@ -463,19 +463,19 @@ e)客户搜索：
 
 - 
 
-![descript](./media/image61.png)
+![descript](./mobile-media/image61.png)
 
 
 
 - 查看智能分组条件，智能分组详情点击查看条件可以查看具体条件信息，智能分组列表的表头也会根据选择条件进行设置；
 
-![descript](./media/image62.png)
+![descript](./mobile-media/image62.png)
 
 
 
 7)客群搜索：方便主动和指定的查找客群，支持客群名称的模糊匹配；
 
-![descript](./media/image63.png)
+![descript](./mobile-media/image63.png)
 
 
 
@@ -485,13 +485,13 @@ e)客户搜索：
 
 营销海报会自动附上账号对应的渠道二维码，同智能名片上的二维码一样，用于让客户扫码开户，且自动绑定开发关系。
 
-![descript](./media/image64.png)
+![descript](./mobile-media/image64.png)
 
 ### 6.客户搜索
 
 客户页面顶部支持通过客户姓名、资金账号的模糊匹配查找；
 
-![descript](./media/image65.png)
+![descript](./mobile-media/image65.png)
 
 
 ### 7.潜客详情页面
@@ -504,13 +504,13 @@ e)客户搜索：
 
 3)潜客的姓名默认为空，支持变更，变更后的姓名影响潜客列表和客户机会中对应的条目；
 
-![descript](./media/image66.png)
+![descript](./mobile-media/image66.png)
 
 
 
 4)潜客备注内容为空，支持变更；
 
-![descript](./media/image67.png)
+![descript](./mobile-media/image67.png)
 
 
 
@@ -524,9 +524,9 @@ e)客户搜索：
 
 #### 2)客户详情界面：包含客户资产、客户资料、客户服务和快捷查询功能。
 
-![descript](./media/image68.png)
+![descript](./mobile-media/image68.png)
 
-- 客户资产：描述客户资产构成的组成明细和总额，如果对数据展示敏感，可以点击眼睛图标![descript](./media/image69.png)来控制隐藏/显示数值。
+- 客户资产：描述客户资产构成的组成明细和总额，如果对数据展示敏感，可以点击眼睛图标![descript](./mobile-media/image69.png)来控制隐藏/显示数值。
 
 - 业务类型: 包含期货期权和个股期权。
 
@@ -540,61 +540,61 @@ e)客户搜索：
 
 - 资产详情：默认展示的是上一交易日期货业务的资产详情，如可用、盈亏、风险度,及留存、利息、交返数据等数据；如果需要查看个股期权，切换Tab之后，会列举个股期权类型下的的重要组成数据，如可用，盈亏、风险度等；
 
-![descript](./media/image70.png)
+![descript](./mobile-media/image70.png)
 
 - 客户总资产分析：点击总资产旁的更多箭头，展示客户的总资产和净盈亏的时间趋势和关键数据，可用根据需要切换不同的时间周期，有本月/本季/半年/本年。
 
-![descript](./media/image71.png)
+![descript](./mobile-media/image71.png)
 
 - 期货资产走势图：提供客户期货权益走势图、期货净盈亏走势图和期货收益率曲线等图形展示；
 
 - 期货基本评估：基于期货业务交易数据提供客户基本评估信息。
 
-![descript](./media/image72.png)
+![descript](./mobile-media/image72.png)
 
 - 如果客户是机构户类型，详情页面头部颜色为红色，其余功能同自然人客户。
 
-<img src="./media/image73.png" alt="描述" width="300" />
+<img src="./mobile-media/image73.png" alt="描述" width="300" />
 
 
 #### 3)客户资料：点击【资料】按钮即可查看，包含客户基本资料，期货、个股期权资料等数据；
 
-![descript](./media/image74.png)
+![descript](./mobile-media/image74.png)
 
 #### 4)服务记录：点击【服务】按钮即可查看，主要为该客户提供的异动、提醒等消息；
 
-<img src="./media/image75.png" alt="描述" width="300" />
+<img src="./mobile-media/image75.png" alt="描述" width="300" />
 
 
 #### 5)快捷功能区：为了方便查询常用的客户信息，将常用功能显示在客户详情页
 
-![descript](./media/image76.png)。
+![descript](./mobile-media/image76.png)。
 
 - 客户的实时数据:如客户的出入金和持仓方向等；
 
-<img src="./media/image77.png" alt="描述" width="300" />
+<img src="./mobile-media/image77.png" alt="描述" width="300" />
 
 
 - 客户的持仓结构:按品种或按交易所统计持仓金额，手数，保证金占用等；
 
-<img src="./media/image78.png" alt="描述" width="300" />
-<img src="./media/image79.png" alt="描述" width="300" />
+<img src="./mobile-media/image78.png" alt="描述" width="300" />
+<img src="./mobile-media/image79.png" alt="描述" width="300" />
 
 - 客户的交易权限开通情况：展示客户已开通和未开通的特殊权限，以及客户的开通条件明细等；
 
-![descript](./media/image80.png)
+![descript](./mobile-media/image80.png)
 
 - 客户的保证金率：客户当前的真实保证金率及相对于公司标准或交易所标准的浮动情况；
 
-<img src="./media/image81.png" alt="描述" width="300" />
+<img src="./mobile-media/image81.png" alt="描述" width="300" />
 
 - 客户的强平情况：统计出近期3个月的强平信息；
 
-<img src="./media/image82.png" alt="描述" width="300" />
+<img src="./mobile-media/image82.png" alt="描述" width="300" />
 
 - 客户交易信息：固定周期内的关键交易信息统计；
 
-<img src="./media/image83.png" alt="描述" width="300" />
+<img src="./mobile-media/image83.png" alt="描述" width="300" />
 
 - 客户的手续费率：包括手续费模板和明细数据；
 
@@ -606,23 +606,23 @@ e)客户搜索：
 
 日报：
 
-<img src="./media/image84.png" alt="描述" width="300" />
+<img src="./mobile-media/image84.png" alt="描述" width="300" />
 
 月报：
 
-<img src="./media/image85.png" alt="描述" width="300" />
+<img src="./mobile-media/image85.png" alt="描述" width="300" />
 
 #### 1)个人、部门简报切换：
 
 如果账号同时拥有多种身份，如客户经理+部门经理，则可同时查看个人简报及部门简报，在简报顶部可进行切换：
 
-<img src="./media/image86.png" alt="描述" width="300" />
+<img src="./mobile-media/image86.png" alt="描述" width="300" />
 
 #### 2)日报、月报的切换：
 
 支持日报/月报的切换，支持选择对应的具体统计周期，更加灵活方便；
 
-![descript](./media/image87.png)
+![descript](./mobile-media/image87.png)
 
 ### 2.指标概览
 
@@ -630,12 +630,12 @@ e)客户搜索：
 
 1)日报，统计选定日期的常用指标，并配以对应的副指标，支持较昨日的比较，红色表示增长，绿色表示减少；
 
-![descript](./media/image88.png)
+![descript](./mobile-media/image88.png)
 
 
 2)月报，统计选定月份的常用指标，点击某指标会还展示该月区间内的时间趋势图；
 
-![descript](./media/image89.png)
+![descript](./mobile-media/image89.png)
 
 
 ### 3.我的客户十大
@@ -644,23 +644,23 @@ e)客户搜索：
 
 1)根据经营角度对客户进行多维度的排行统计，简报展示的客户十大卡片，点击更多可以查看更多指标和数量的客户排行统计；
 
-![descript](./media/image90.png)
+![descript](./mobile-media/image90.png)
 
 2)客户榜单页默认同简报的统计周期一致，也支持灵活的切换和选择；
 
-![descript](./media/image91.png)
+![descript](./mobile-media/image91.png)
 
 
 
 3)客户榜单支持对筛选条件的过滤；
 
-![descript](./media/image92.png)
+![descript](./mobile-media/image92.png)
 
 
 
 4)为方便查看，支持对客户榜单的表头的设置，选择开关和排序，满足用户个性需求；
 
-![descript](./media/image93.png)
+![descript](./mobile-media/image93.png)
 
 
 
@@ -670,13 +670,13 @@ e)客户搜索：
 
 1)日报开户专题卡片统计了统计日期内开户的客户类型的数量占比；
 
-![descript](./media/image94.png)
+![descript](./mobile-media/image94.png)
 
 
 
 2)月报开户专题卡片统计了统计月份内新开客户的收入贡献类型的金额占比，提供每个环节的转化率情况，帮助期货公司快速定位薄弱环节，以改进优化。如图6-4-2-1；
 
-![descript](./media/image95.png)
+![descript](./mobile-media/image95.png)
 
 
 
@@ -684,13 +684,13 @@ e)客户搜索：
 
 横向比对各业务部门的经营情况，目前仅总部管理人员角色可以查看部门排行；
 
-![descript](./media/image96.png)
+![descript](./mobile-media/image96.png)
 
 ### 6.次席情况
 
 客户在各次席系统的使用情况，便于管理层快速了解各次席系统的"性价比"。
 
-![descript](./media/image97.png)
+![descript](./mobile-media/image97.png)
 
 ### 7.活跃品种
 
@@ -698,18 +698,18 @@ e)客户搜索：
 
 1)统计周期内公司范围下客户成交量的情况，展现形式为热力图形式；
 
-![descript](./media/image98.png)
+![descript](./mobile-media/image98.png)
 
 
 2)热力图的色块大小根据成交量从高到低排序，取前9个，色块颜色对应统计周期内的市占率涨跌幅，详见解释说明页；
 
-![descript](./media/image99.png)
+![descript](./mobile-media/image99.png)
 
 
 
 3)选择活跃品种某个色块，可以看到该品种排行详情页面，了解公司下该品种的市占率、成交量，以及使用者自己负责范围内的该品种的客户列表；
 
-![descript](./media/image100.png)
+![descript](./mobile-media/image100.png)
 
 
 
@@ -717,7 +717,7 @@ e)客户搜索：
 
 【我的】功能能够为使用者提供自己权限范围内的客户数据（如客户、潜在客户、居间等），并且知客提供了智能名片功能，具体功能介绍如图所示：
 
-![descript](./media/image101.png)
+![descript](./mobile-media/image101.png)
 
 
 点击客户/潜客/居间/客户经理通讯录入口，即可查看账户权限范围内的客户列表、潜客列表、居间列表、客户经理列表；
@@ -726,21 +726,21 @@ e)客户搜索：
 
 支持客户名、资金账号的模糊匹配，支持对客户状态、生命周期的条件筛选，长按某个客户条目支持对该客户的星标操作和快捷添加到自定义分组的操作；
 
-![descript](./media/image102.png)
+![descript](./mobile-media/image102.png)
 
 ### 2.潜客
 
 潜客列表支持对潜客的手机号和姓名的模糊匹配搜索，与客户概览潜客阶段跳转的潜客列表页相同；
 
-![descript](./media/image103.png)
+![descript](./mobile-media/image103.png)
 
 ### 3.居间
 
 根据居间类型分为我的居间和部门居间两个页签，根据用户的实际权限情况显示。客户经理角色可以查看我的居间，部门经理及总经理可以查看部门居间。居间列表支持搜索和筛选；
 
-<img src="./media/image104.png" alt="描述" width="300" />
+<img src="./mobile-media/image104.png" alt="描述" width="300" />
 
-<img src="./media/image105.png" alt="描述" width="300" />
+<img src="./mobile-media/image105.png" alt="描述" width="300" />
 
 筛选条件包含，居间的人员类型，状态，以及合同的开始，结束日期。
 
@@ -750,16 +750,16 @@ e)客户搜索：
 
 1)点击头像下方的客户经理按钮，即可查看所在部门的客户经理数据；
 
-![descript](./media/image106.png)
+![descript](./mobile-media/image106.png)
 
 
-2)在客户经理页面可以在搜索框内搜索客户经理信息，也可在右方进行客户经理筛选，点击![descript](./media/image107.png)图标，既可以进行客户经理条件筛选；
+2)在客户经理页面可以在搜索框内搜索客户经理信息，也可在右方进行客户经理筛选，点击![descript](./mobile-media/image107.png)图标，既可以进行客户经理条件筛选；
 
-![descript](./media/image108.png)
+![descript](./mobile-media/image108.png)
 
 3)点击客户经理时，可以下钻查看该客户经理的数据概览和客户榜单。
 
-![descript](./media/image109.png)
+![descript](./mobile-media/image109.png)
 
 ### 5.跟进功能 **（不推荐使用，后续会更新）**
 
@@ -783,14 +783,14 @@ e)客户搜索：
 
 在消息界面如果有需跟进的任务，在消息的右后方以红色的"需跟进"字样标注提示；
 
-<img src="./media/image110.png" alt="描述" width="300" />
+<img src="./mobile-media/image110.png" alt="描述" width="300" />
 
 
 - 我的界面查看
 
 点击【我的】-【跟进】菜单，进入到跟进的功能界面，在此界面可以查看到我的全部跟进任务，分为需跟进、已跟进两个页面标签；
 
-<img src="./media/image111.png" alt="描述" width="300" />
+<img src="./mobile-media/image111.png" alt="描述" width="300" />
 
 
 
@@ -800,7 +800,7 @@ e)客户搜索：
 
 注意：跟进填写一旦提交确认后，不可修改和删除，提交前请核查无误。
 
-![descript](./media/image112.png)
+![descript](./mobile-media/image112.png)
 
 
 
@@ -812,14 +812,14 @@ e)客户搜索：
 
 在消息界面长按需要跟进的消息，在下方弹出的界面选择新建跟进，即可进行该消息的新建跟进。该途径自动引入客户姓名和消息，需要填写跟进内容（文字、图片），图片最多支持9张，允许拍摄/上传；
 
-![descript](./media/image113.png)
+![descript](./mobile-media/image113.png)
 
 
 - 消息详情页面新建跟进记录
 
 在消息的详情页面，点击右下角的跟进-新建跟进，即可进行新建该消息的跟进记录。该途径自动引入客户姓名和消息，需要填写跟进内容（文字、图片），图片最多支持9张，允许拍摄/上传；
 
-![descript](./media/image114.png)
+![descript](./mobile-media/image114.png)
 
 
 
@@ -827,14 +827,14 @@ e)客户搜索：
 
 在客户详情页面底部的快捷动作条选择新建跟进，即可进行新建跟进记录。通过该途径新建的跟进记录，会自动引入客户姓名，但需要手工关联跟进的消息，输入文字和图片和即可完成新建跟进记录；
 
-![descript](./media/image115.png)
+![descript](./mobile-media/image115.png)
 
 
 - 跟进页菜单栏填写跟进任务
 
 点击【我的】-【跟进】菜单，在跟进界面点击右上方的加号，即可进行新建跟进记录，通过该途径新建的跟进，需要手工选择客户和跟进关联消息；
 
-![descript](./media/image116.png)
+![descript](./mobile-media/image116.png)
 
 
 
@@ -842,18 +842,18 @@ e)客户搜索：
 
 - 点击【我的】-【跟进】菜单，选择跟进记录选项，即可查看到我全部的跟进记录；
 
-<img src="./media/image117.png" alt="描述" width="300" />
+<img src="./mobile-media/image117.png" alt="描述" width="300" />
 
 
 a.在跟进记录界面查看某个记录时，可以查看客户姓名进入客户详情页，如果文字太长则会折叠显示，点击全文按钮后则会展开显示，同时全文变为收起字样，在右下方可以通过查看指派按钮来查看具体的指派情况；
 
-![descript](./media/image118.png)
+![descript](./mobile-media/image118.png)
 
 
 
 - 在客户主页中选择【服务】，再选择跟进记录标签，即可看到该客户的所有跟进记录：
 
-<img src="./media/image119.png" alt="描述" width="300" />
+<img src="./mobile-media/image119.png" alt="描述" width="300" />
 
 ### 6.智能名片
 
@@ -861,8 +861,8 @@ a.在跟进记录界面查看某个记录时，可以查看客户姓名进入客
 
 智能名片与渠道系统打通，此处的二维码即为客户经理在渠道系统生成的开户二维码，客户可以通过二维码直接扫码开户，并且系统会自动绑定渠道与客户的关系；
 
-<img src="./media/image120.png" alt="描述" width="300" />
-<img src="./media/image121.png" alt="描述" width="300" />
+<img src="./mobile-media/image120.png" alt="描述" width="300" />
+<img src="./mobile-media/image121.png" alt="描述" width="300" />
  
 
 ## 七、企业微信版功能
@@ -877,11 +877,11 @@ a.在跟进记录界面查看某个记录时，可以查看客户姓名进入客
 
 2)登录成功后，点击下方【工作台】，即可使用知客企业微信版的功能，如图。
 
-<img src="./media/image122.png" alt="描述" width="300" />
+<img src="./mobile-media/image122.png" alt="描述" width="300" />
 
 3)企业微信PC端，选择工作台也可使用到知客小程序功能，如图。
 
-![descript](./media/image123.png)
+![descript](./mobile-media/image123.png)
 
 ### 2.功能界面介绍
 
@@ -902,13 +902,13 @@ a.在跟进记录界面查看某个记录时，可以查看客户姓名进入客
 
 例如点击客户模块，即进入右侧的客户数据页面；
 
-![descript](./media/image124.png)
+![descript](./mobile-media/image124.png)
 
 
 
 在企业微信PC端的工作台，选择知客的产品和功能模块，可以在电脑终端看到同微信小程序同样的页面。如图7-1-2所示。
 
-![descript](./media/image125.png)
+![descript](./mobile-media/image125.png)
 
 
 
@@ -916,7 +916,7 @@ a.在跟进记录界面查看某个记录时，可以查看客户姓名进入客
 
 部署了企微版本的知客应用，如果需要"提醒"和"异动"内的消息推送到手机上的系统通知，
 
-![descript](./media/image126.png)
+![descript](./mobile-media/image126.png)
 
 请按照如下的操作检查下配置。
 
@@ -924,29 +924,29 @@ a.在跟进记录界面查看某个记录时，可以查看客户姓名进入客
 
 1.手机系统设置中允许企业微信的通知。
 
-<img src="./media/image127.png" alt="描述" width="300" />
+<img src="./mobile-media/image127.png" alt="描述" width="300" />
 
 2、企业微信app中，允许接受新消息通知。
 
-<img src="./media/image128.png" alt="描述" width="300" />
+<img src="./mobile-media/image128.png" alt="描述" width="300" />
 
 3、知客小程序的消息设置中，新消息通知打开。
 
-<img src="./media/image129.png" alt="描述" width="300" />
+<img src="./mobile-media/image129.png" alt="描述" width="300" />
 
 #### 安卓版本
 
 1、手机系统设置中的通知管理，打开企业微信的允许通知。
 
-<img src="./media/image130.jpg" alt="描述" width="300" />
+<img src="./mobile-media/image130.jpg" alt="描述" width="300" />
 
 2、企业微信app中，允许接受新消息通知。
 
-<img src="./media/image131.png" alt="描述" width="300" />
+<img src="./mobile-media/image131.png" alt="描述" width="300" />
 
 3、知客小程序的消息设置中，新消息通知打开。
 
-<img src="./media/image129.png" alt="描述" width="300" />
+<img src="./mobile-media/image129.png" alt="描述" width="300" />
 
 ### 4.使用场景：聊天工具栏
 
@@ -954,17 +954,17 @@ a.在跟进记录界面查看某个记录时，可以查看客户姓名进入客
 
 1)进入企业微信------通讯录------我的客户，选择需要进行沟通的客户
 
-<img src="./media/image132.png" alt="描述" width="300" />
+<img src="./mobile-media/image132.png" alt="描述" width="300" />
 
-<img src="./media/image133.png" alt="描述" width="300" />
+<img src="./mobile-media/image133.png" alt="描述" width="300" />
 
 2)进入聊天界面后，点击右上方的调出按钮，即可在聊天内容框上方调出聊天工具栏：
 
-![descript](./media/image134.png)
+![descript](./mobile-media/image134.png)
 
 3)在聊天工具栏中左右滑动，选择需要发送给客户的业务链接，例如选择智能名片，营销海报发送给客户，客户可直接通过链接打开智能名片开户或营销海报 参与活动，效果如图所示：
 
-![descript](./media/image135.png)
+![descript](./mobile-media/image135.png)
 
 ### 5.使用场景：查看客户详情
 
@@ -972,7 +972,7 @@ a.在跟进记录界面查看某个记录时，可以查看客户姓名进入客
 
 1)在使用企业微信和客户沟通时，聊天工具栏中有客户详情，客户实时数据，交易权限，保证金率，手续费率，可以便捷查看客户的详情数据：
 
-![descript](./media/image136.png)
+![descript](./mobile-media/image136.png)
 >
 
 
@@ -982,12 +982,12 @@ a.在跟进记录界面查看某个记录时，可以查看客户姓名进入客
 
 之后便可直接在聊天工具栏直接查看童*师的客户详情，客户实时数据，交易权限，保证金率，手续费率。
 
-![descript](./media/image137.png)
+![descript](./mobile-media/image137.png)
 
 
 3)客户微信解绑，在聊天工具栏上选择客户详情，进入客户详情页，点击右上方的微信绑定按钮，即可进行解绑；
 
-<img src="./media/image138.png" alt="描述" width="300" />
+<img src="./mobile-media/image138.png" alt="描述" width="300" />
 
 ## 八、用户角色介绍
 
@@ -1009,7 +1009,7 @@ a.在跟进记录界面查看某个记录时，可以查看客户姓名进入客
 
 不同角色数据权限分配如下表：
 
-![descript](./media/image0.png)
+![descript](./mobile-media/image0.png)
 
 ### 3.角色组合
 
