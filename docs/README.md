@@ -7,19 +7,20 @@ tagline: 专注于期货行业，不断尝试，持续改善
 
 actions:
   - text: 产品介绍
-    link: /overview
+    link: /overview/crm.md
     type: primary
-  - text: 操作手册
-    link: /manual
+  - text: 使用手册
+    link: /manual/scrm/mobile.md
     type: secondary
 
 features:
-  - title: 极致
-    details: 无需注册，无需魔法，免费使用ChatGPT 和 Claude。
-  - title: 生产力
-    details: 稳定可靠的主流大模型 API中转服务，即买即用，不会过期。
-  - title: 简单优雅
-    details: ChatGPT Plus & Claude Pro 拼车服务，国内直连，优雅上车。
+  - title: 专业
+    details: 期货软件专家，专注成就高效
+  - title: 智慧
+    details: 汇聚领先技术，赋能行业革新
+  - title: 共赢
+    details: 技术成果共享，携手同筑未来
 
 footer: Copyright © 2010-至今 上海德索信息技术有限公司 | 版权所有
+
 ---

@@ -1,1 +1,0 @@
-import{_ as e,e as t,o as a}from"./app-B-7R6S8o.js";const n={};function o(l,r){return a(),t("div")}const m=e(n,[["render",o],["__file","知客.html.vue"]]),_=JSON.parse('{"path":"/manual/mobile/%E7%9F%A5%E5%AE%A2.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"manual/mobile/知客.md"}');export{m as comp,_ as data};

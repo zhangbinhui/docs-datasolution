@@ -8,7 +8,15 @@ import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 
 export default {
   bundler: viteBundler(),
-  head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/images/logo.png' }],
+    ['script', {}, `window.difyChatbotConfig = { token: 'xLerFGASLr0C2AeL', baseUrl: 'https://dify.aiporters.com' }`],
+    ['script', { src: 'https://dify.aiporters.com/embed.min.js', id: 'xLerFGASLr0C2AeL', defer: true }],
+    ['style', {}, `
+      #dify-chatbot-bubble-button { background-color: #1C64F2 !important; }
+      #dify-chatbot-bubble-window { width: 24rem !important; height: 40rem !important; }
+    `]
+  ],
   theme: defaultTheme(
     {
       logo: '/images/logo-long.png',
