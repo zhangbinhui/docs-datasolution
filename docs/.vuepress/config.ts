@@ -86,9 +86,9 @@ export default {
               ]
             },
             {
-              text: '业务审批',
+              text: '业务管理',
               prefix: '/manual/oa/',
-              children: [],
+              children: ['oa.md'],
             },
             {
               text: '统一数据服务平台',
@@ -151,8 +151,9 @@ export default {
         },
         {
           text: '业务审批',
+          collapsible: true,
           children: [
-            
+            'oa/oa.md',
           ],
         },
         {
