@@ -67,6 +67,7 @@ export default {
               children: [
                 'return.md',
                 'report.md',
+                'dsi.md',
                 'bill-send.md',
                 'auto-sms.md',
                 'revisit.md',
@@ -129,8 +130,9 @@ export default {
           text: 'CRM',
           children: [
             'crm/return.md',
-            'crm/bill-send.md',
             'crm/report.md',
+            'crm/dsi.md',
+            'crm/bill-send.md',
             'crm/auto-sms.md',
             'crm/revisit.md',
           ],
