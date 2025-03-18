@@ -419,11 +419,6 @@ b、云平台业务办理的pdf批量导入
 
 ##  **五，【业务管理平台**】的日常使用指南
 
-<video width="100%" controls>
-  <source src="/videos/德索业务管理平台.mp4" type="video/mp4">
-  您的浏览器不支持 video 标签。
-</video>
-
 
 ###  **1.【发起流程】**
 
