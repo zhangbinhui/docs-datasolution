@@ -7,7 +7,7 @@ tagline: 专注于期货行业，不断尝试，持续改善
 
 actions:
   - text: 产品介绍
-    link: /overview/crm.md
+    link: /overview/crm/crm.md
     type: primary
   - text: 使用手册
     link: /manual/scrm/mobile.md

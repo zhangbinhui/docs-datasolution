@@ -7,7 +7,11 @@ import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom'
 import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 
 export default {
-  bundler: viteBundler(),
+  bundler: viteBundler({
+    viteOptions: {
+      assetsInclude: ['**/*.PNG'] // 添加这一行来包含大写PNG文件
+    }
+  }),
   head: [
     ['link', { rel: 'icon', href: '/images/logo.png' }],
     ['script', {}, `window.difyChatbotConfig = { token: 'xLerFGASLr0C2AeL', baseUrl: 'https://dify.aiporters.com' }`],
@@ -36,19 +40,33 @@ export default {
           children: [
             {
               text: 'CRM',
-              link: '/overview/crm.md',
+              prefix: '/overview/crm/',
+              children: [
+                'crm.md',
+                'return.md',
+                'contract.md',
+              ],
             },
             {
               text: '反洗钱',
-              link: '/overview/aml.md',
+              prefix: '/overview/aml/',
+              children: [
+                'aml.md',
+              ],
             },
             {
               text: '知客',
-              link: '/overview/scrm.md',
+              prefix: '/overview/scrm/',
+              children: [
+                'scrm.md',
+              ],
             },
             {
               text: '业务审批',
-              link: '/overview/oa.md',
+              prefix: '/overview/oa/',
+              children: [
+                'oa.md',
+              ],
             },
             {
               text: '统一数据服务平台',
@@ -106,19 +124,29 @@ export default {
       '/overview/':[
         {
           text: 'CRM',
-          link: 'crm.md',
+          children: [
+            'crm/crm.md',
+            'crm/return.md',
+            'crm/contract.md',
+          ],
         },
         {
           text: '反洗钱',
-          link: 'aml.md',
+          children: [
+            'aml/aml.md',
+          ],
         },
         {
           text: '知客',
-          link: 'scrm.md',
+          children: [
+            'scrm/scrm.md',
+          ],
         },
         {
           text: '业务审批',
-          link: 'oa.md',
+          children: [
+            'oa/oa.md',
+          ],
         },
         {
           text: '统一数据服务平台',
