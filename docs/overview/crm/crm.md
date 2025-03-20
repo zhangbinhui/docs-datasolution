@@ -1,6 +1,6 @@
 # 德索CRM介绍
 
-[下载完整PDF](./crm-media/【售前】德索CRM介绍2502.pdf)
+[下载完整PDF](/pdf/【售前】德索CRM介绍2502.pdf)
 
 ![幻灯片1](./crm-media/ppt-png/幻灯片1.PNG)
 

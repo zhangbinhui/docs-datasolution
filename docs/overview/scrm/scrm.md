@@ -1,6 +1,6 @@
 # 知客介绍
 
-[下载完整PDF](./scrm-media/【售前】知客介绍.pdf)
+[下载完整PDF](/pdf/【售前】知客介绍.pdf)
 
 ![幻灯片1](./scrm-media/ppt-png/幻灯片1.PNG)
 

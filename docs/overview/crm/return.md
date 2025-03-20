@@ -1,6 +1,6 @@
 # 佣金提成模块介绍
 
-[下载完整PDF](./return-media/【售前】德索佣金提成介绍202411.pdf)
+[下载完整PDF](/pdf/【售前】德索佣金提成介绍202411.pdf)
 
 ![幻灯片1](./return-media/ppt-png/幻灯片1.PNG)
 

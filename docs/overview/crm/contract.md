@@ -1,6 +1,6 @@
 # 合同管理模块介绍
 
-[下载完整PDF](./contract-media/【售前】德索合同管理模块介绍202408.pdf)
+[下载完整PDF](/pdf/【售前】德索合同管理模块介绍202408.pdf)
 
 ![幻灯片1](./contract-media/ppt-png/幻灯片1.PNG)
 
