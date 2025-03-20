@@ -9,7 +9,7 @@ import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 export default {
   bundler: viteBundler({
     viteOptions: {
-      assetsInclude: ['**/*.PNG'] // 添加这一行来包含大写PNG文件
+      assetsInclude: ['**/*.PNG', '**/*.pdf', '**/*.PDF'] // 添加这一行来包含大写PNG文件
     }
   }),
   head: [
