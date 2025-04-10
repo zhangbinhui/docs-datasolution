@@ -237,7 +237,7 @@
 | consult_enable<br>投资咨询功能开关 | 0(默认) | 投资咨询系统总开关，需要客户部署了投资咨询系统（0-关，1-开） |
 | bind_wx<br>绑定微信功能 | 2 | 不启用绑定微信功能，且不显示绑定微信按钮 |
 | default_login_type<br>默认登录方式 | 0(默认) | 0：为账号密码登录，is_phone_login为1，并且default_login_type为1的时候默认手机号登录 |
-| is_need_encrypt<br>是否需要加密 | 1(默认) | (0：不需要，1：需要) |
+| is_need_encrypt<br>数据传输是否需要加密 | 1(默认) | 服务端与前端通讯的数据传输是否需要加密(0：不需要，1：需要) |
 | is_phone_login<br>是否开启手机号+验证码登录 | 1(默认) | 是否需要手机登录（0，不需要，1需要） |
 | is_support_wechat<br>是否支持通过小程序访问 | 1(默认) | （1：支持；0：不支持） |
 | login_to_page<br>默认登录页面 | /pages/customer/customer（客户页） | 	
