@@ -233,15 +233,17 @@
 
 | 配置项及含义 | 配置项值 | 值描述及影响范围 |
 | ------------ | -------- | -------------------- |
-| default_login_type<br>默认登录方式 | 0(默认) | 账号密码登录 |
-| default_login_type<br>默认登录方式 | 1 | 手机号登录<br>但依赖于另一个配置项is_phone_login=1 才生效 |
-| is_phone_login<br>是否开启手机号+验证码登录 | 0 | 不开启 |
-| is_phone_login<br>是否开启手机号+验证码登录 | 1(默认) | 开启 |
-| is_support_wechat<br>是否支持通过小程序访问 | 1(默认) | 支持 |
-| is_support_wechat<br>是否支持通过小程序访问 | 0 | 不支持 |
-| login_to_page<br>默认登录页面 | /pages/customer/customer | 这里的例子是客户页 |
+| bind_wx<br>绑定微信功能 | 1(默认) | 是否启用绑定微信功能，0不启用，其他都启用 |
+| consult_enable<br>投资咨询功能开关 | 0(默认) | 投资咨询系统总开关，需要客户部署了投资咨询系统（0-关，1-开） |
+| bind_wx<br>绑定微信功能 | 2 | 不启用绑定微信功能，且不显示绑定微信按钮 |
+| default_login_type<br>默认登录方式 | 0(默认) | 0：为账号密码登录，is_phone_login为1，并且default_login_type为1的时候默认手机号登录 |
+| is_need_encrypt<br>是否需要加密 | 1(默认) | (0：不需要，1：需要) |
+| is_phone_login<br>是否开启手机号+验证码登录 | 1(默认) | 是否需要手机登录（0，不需要，1需要） |
+| is_support_wechat<br>是否支持通过小程序访问 | 1(默认) | （1：支持；0：不支持） |
+| login_to_page<br>默认登录页面 | /pages/customer/customer（客户页） | 	
+登录跳转的目录地址(token失效情况除外，此时登录后跳转回原来的地址) |
 | my_status_valid<br>通讯录默认显示状态 | 1(默认) | 我的-客户，客户经理，居间人 默认显示有效状态的数据。 |
-| my_status_valid<br>通讯录默认显示状态 | 0 | 我的-我的客户，客户经理，居间人 显示全量数据 |
+| my_status_valid<br>通讯录默认显示状态 | 0 | 我的-我的客户，客户经理，居间人 是否仅显示有效数据，1：是，0：显示全量数据 |
 
 ## 八、系统指派配置
 
