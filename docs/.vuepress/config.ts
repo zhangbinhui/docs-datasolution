@@ -184,6 +184,16 @@ export default {
           collapsible: true,
           children: [
             'oa/oa.md',
+            'oa/oa-pro-compare.md',
+            'oa/oa-up-20241229.md',
+            'oa/oa-up-20231220.md',
+            'oa/oa-up-20230515.md',
+            'oa/oa-up-20230331.md',
+            'oa/oa-up-20221230.md',
+            'oa/oa-up-20221024.md',
+            'oa/oa-up-20220617.md',
+            'oa/oa-up-20220112.md',
+            'oa/oa-up-20210806.md',
           ],
         },
         {
