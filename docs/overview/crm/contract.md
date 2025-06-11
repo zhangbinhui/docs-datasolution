@@ -1,5 +1,9 @@
 # 合同管理模块介绍
 
+#### 德索合同管理平台介绍小视频.mp4
+
+<video src="/videos/overview/德索合同管理平台介绍小视频.mp4" controls height="450"></video>
+
 [下载完整PDF](/pdf/【售前】德索合同管理模块介绍202408.pdf)
 
 ![幻灯片1](./contract-media/ppt-png/幻灯片1.PNG)

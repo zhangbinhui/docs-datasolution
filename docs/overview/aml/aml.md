@@ -1,5 +1,8 @@
 # 反洗钱系统介绍
 
+#### 反洗钱-角色与用户权限设置.mp4
+<video src="/videos/overview/德索反洗钱-角色与用户权限设置.mp4" controls height="450"></video>
+
 [下载完整PDF](/pdf/【售前】德索反洗钱产品介绍2502.pdf)
 
 ![幻灯片1](./aml-media/ppt-png/幻灯片1.PNG)

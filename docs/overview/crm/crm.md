@@ -1,5 +1,9 @@
 # 德索CRM介绍
 
+#### 德索CRM平台介绍小视频.mp4
+
+<video src="/videos/overview/德索新平台介绍小视频.mp4" controls height="450"></video>
+
 [下载完整PDF](/pdf/【售前】德索CRM介绍2502.pdf)
 
 ![幻灯片1](./crm-media/ppt-png/幻灯片1.PNG)
