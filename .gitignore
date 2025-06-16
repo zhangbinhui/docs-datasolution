@@ -1,4 +1,6 @@
 node_modules
+# VuePress 视频不上传了
+docs/.vuepress/public/videos
 # VuePress 默认临时文件目录
 docs/.vuepress/.temp
 # VuePress 默认缓存目录
