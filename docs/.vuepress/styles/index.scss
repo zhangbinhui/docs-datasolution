@@ -31,3 +31,18 @@
     font-family: 'Fira Code', sans-serif;
   }
   
+  /* 打印样式：隐藏侧边栏 */
+  @media print {
+    .vp-sidebar {
+      display: none !important;
+    }
+    
+    .vp-page {
+      padding-left: 0 !important;
+    }
+    
+    .vp-sidebar-mask {
+      display: none !important;
+    }
+  }
+  

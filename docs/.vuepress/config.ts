@@ -5,6 +5,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 import { copyCodePlugin } from '@vuepress/plugin-copy-code'
 import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom'
 import { nprogressPlugin } from '@vuepress/plugin-nprogress'
+import { watermarkPlugin } from '@vuepress/plugin-watermark'
 
 export default {
   bundler: viteBundler({
@@ -219,5 +220,11 @@ export default {
       // 配置项
     }),
     nprogressPlugin(),
+    watermarkPlugin({
+      enabled: true,
+      watermarkOptions: {
+        content: '德索信息',
+      },
+    }),
   ],
 }

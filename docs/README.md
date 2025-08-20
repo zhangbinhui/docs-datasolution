@@ -4,6 +4,7 @@ heroImage: /images/logo-big.png
 heroImageDark: /images/logo-big.png
 heroText: 产品在线手册
 tagline: 专注于期货行业，不断尝试，持续改善
+watermark: false
 
 actions:
   - text: 产品介绍
