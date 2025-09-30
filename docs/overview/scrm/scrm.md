@@ -1,6 +1,8 @@
 # 知客介绍
 
-[下载完整PDF](/pdf/【售前】知客介绍.pdf)
+[下载完整PDF](/pdf/【售前】知客产品2509.pdf)
+
+[下载完整PPT](/ppt/【售前】知客产品2509.pptx)
 
 ![幻灯片1](./scrm-media/ppt-png/幻灯片1.PNG)
 
@@ -53,3 +55,7 @@
 ![幻灯片25](./scrm-media/ppt-png/幻灯片25.PNG)
 
 ![幻灯片26](./scrm-media/ppt-png/幻灯片26.PNG)
+
+![幻灯片27](./scrm-media/ppt-png/幻灯片27.PNG)
+
+![幻灯片28](./scrm-media/ppt-png/幻灯片28.PNG)

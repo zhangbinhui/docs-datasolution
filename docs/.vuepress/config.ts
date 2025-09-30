@@ -69,10 +69,10 @@ export default {
                 'oa.md',
               ],
             },
-            {
-              text: '统一数据服务平台',
-              link: '/overview/udsp.md',
-            },
+            // {
+            //   text: '统一数据服务平台',
+            //   link: '/overview/udsp.md',
+            // },
           ],
         },
 
@@ -110,11 +110,11 @@ export default {
               prefix: '/manual/oa/',
               children: ['oa.md'],
             },
-            {
-              text: '统一数据服务平台',
-              prefix: '/manual/udsp/',
-              children: [],
-            }  
+            // {
+            //   text: '统一数据服务平台',
+            //   prefix: '/manual/udsp/',
+            //   children: [],
+            // }  
           ],
         },
 
@@ -149,10 +149,10 @@ export default {
             'oa/oa.md',
           ],
         },
-        {
-          text: '统一数据服务平台',
-          link: 'udsp.md',
-        },
+        // {
+        //   text: '统一数据服务平台',
+        //   link: 'udsp.md',
+        // },
       ],
       '/manual/':[
         {
@@ -197,12 +197,12 @@ export default {
             'oa/oa-up-20210806.md',
           ],
         },
-        {
-          text: '统一数据服务平台',
-          children: [
+        // {
+        //   text: '统一数据服务平台',
+        //   children: [
             
-          ],
-        },
+        //   ],
+        // },
       ],
       '/reference/': 'heading',
     },
