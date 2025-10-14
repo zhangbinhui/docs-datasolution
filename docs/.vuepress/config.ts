@@ -86,7 +86,6 @@ export default {
               children: [
                 'return.md',
                 'report.md',
-                'dsi.md',
                 'bill-send.md',
                 'auto-sms.md',
                 'revisit.md',
@@ -114,7 +113,15 @@ export default {
             //   text: '统一数据服务平台',
             //   prefix: '/manual/udsp/',
             //   children: [],
-            // }  
+            // },
+            {
+              text: '开发文档',
+              prefix: '/manual/develop/',
+              children: [
+                'dsi.md',
+                'img-archive.md',
+              ],
+            },
           ],
         },
 
@@ -160,7 +167,6 @@ export default {
           children: [
             'crm/return.md',
             'crm/report.md',
-            'crm/dsi.md',
             'crm/bill-send.md',
             'crm/auto-sms.md',
             'crm/revisit.md',
@@ -203,6 +209,14 @@ export default {
             
         //   ],
         // },
+        {
+          text: '开发文档',
+          collapsible: true,
+          children: [
+            'develop/dsi.md',
+            'develop/img-archive.md',
+          ],
+        },
       ],
       '/reference/': 'heading',
     },
