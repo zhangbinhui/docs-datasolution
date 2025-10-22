@@ -89,6 +89,7 @@ export default {
                 'bill-send.md',
                 'auto-sms.md',
                 'revisit.md',
+                'contract.md',
               ],
             },
             {
@@ -170,6 +171,7 @@ export default {
             'crm/bill-send.md',
             'crm/auto-sms.md',
             'crm/revisit.md',
+            'crm/contract.md',
           ],
         },
         {
