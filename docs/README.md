@@ -11,7 +11,7 @@ actions:
     link: /overview/crm/crm.md
     type: primary
   - text: 使用手册
-    link: /manual/scrm/mobile.md
+    link: /manual/crm/return.md
     type: secondary
 
 features:
