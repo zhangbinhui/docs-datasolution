@@ -1,3 +1,4 @@
+import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defaultTheme } from '@vuepress/theme-default'
 import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
@@ -7,10 +8,16 @@ import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom'
 import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 import { watermarkPlugin } from '@vuepress/plugin-watermark'
 
-export default {
+export default defineUserConfig({
   bundler: viteBundler({
     viteOptions: {
-      assetsInclude: ['**/*.PNG', '**/*.pdf', '**/*.PDF'] // 添加这一行来包含大写PNG文件
+      assetsInclude: ['**/*.PNG', '**/*.pdf', '**/*.PDF'], // 添加这一行来包含大写PNG文件
+      server: {
+        watch: {
+          usePolling: true, // WSL2下监听Windows磁盘文件变化需要轮询模式
+          interval: 500,
+        },
+      },
     }
   }),
   head: [
@@ -243,4 +250,4 @@ export default {
       },
     }),
   ],
-}
+})
